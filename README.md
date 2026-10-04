@@ -40,4 +40,14 @@ Every submission is expected to include:
 
 BountyForge Lab is available for outcome-based open-source bounties and scoped engineering work involving frontend systems, APIs, developer experience, testing, and technical documentation.
 
+### Fixed-scope services
+
+| Service | Starting price | Delivery |
+| --- | ---: | --- |
+| Excel/CSV cleanup | USD 25 | Clean one file (up to 3 sheets and 5,000 rows), flag duplicates and inconsistent values, and provide a change summary. |
+| Manual web QA | USD 40 | Test up to 5 pages and 3 agreed user flows on Windows/Android; deliver reproducible findings with screenshots. |
+| Basic Power BI dashboard | USD 75 | Build a one-page dashboard from a structured Excel/CSV source, with up to 4 KPIs, 3 charts, 2 filters, and a PDF reference. |
+
+These are starting prices for the stated scope, not quotes for unseen data or websites. Send a sample with sensitive information removed (or a URL and test requirements); we will confirm feasibility, final price, timeline, and payment terms in writing before any work begins. The QA service excludes iOS, purchases, and real financial transactions. The dashboard service excludes Power BI Service licensing and scheduled refresh.
+
 **Contact:** [bountyforge.lab@proton.me](mailto:bountyforge.lab@proton.me)
